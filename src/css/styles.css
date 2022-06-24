@@ -1,0 +1,27 @@
+body{
+    background-color:#F7EADA;
+    font-family: "serif";
+}
+.navbar ul{
+    display: flex;
+    background-color: #333;
+    border-radius: 10px;
+    
+}
+.navbar li{
+    list-style: none;
+    text-decoration: none;
+    padding: 15px;
+    
+}
+.navbar a{
+    text-decoration: none;
+    color: white;
+}
+.navbar li:hover{
+    border-radius:10px; 
+    background-color: gray;
+}
+img{
+    border-radius: 30px;
+}
